@@ -47,9 +47,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/hummingbird-joystick-robot
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/python-hummingbird-joystick-robot/v0.0.1.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/python-hummingbird-joystick-robot/v0.0.4.svg
     :alt: Commits since latest release
-    :target: https://github.com/fmorton/python-hummingbird-joystick-robot/compare/v0.0.1...main
+    :target: https://github.com/fmorton/python-hummingbird-joystick-robot/compare/v0.0.4...main
 
 
 
