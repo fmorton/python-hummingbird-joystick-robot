@@ -20,7 +20,7 @@ def read(*names, **kwargs):
 
 setup(
     name='hummingbird-joystick-robot',
-    version='0.0.4',
+    version='0.0.6',
     license='MIT',
     description='A robot using Birdbrain Technologies Hummingbird using the hummingbird_joystick and hummingbird_dual_motor_driver packages.',
     long_description='{}\n{}'.format(
