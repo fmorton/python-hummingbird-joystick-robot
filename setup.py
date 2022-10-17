@@ -22,7 +22,7 @@ setup(
     name='hummingbird-joystick-robot',
     version='0.0.7',
     license='MIT',
-    description='A robot using Birdbrain Technologies Hummingbird using the hummingbird_joystick and hummingbird_dual_motor_driver packages.',
+    description='A robot using Birdbrain Technologies Hummingbird using the hummingbird_joystick/hummingbird_dual_motor_driver packages.',
     long_description='{}\n{}'.format(
         re.compile('^.. start-badges.*^.. end-badges', re.M | re.S).sub('', read('README.rst')),
         re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst')),
