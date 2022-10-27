@@ -47,9 +47,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/hummingbird-robot
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/python-hummingbird-robot/v0.0.7.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/python-hummingbird-robot/v0.0.8.svg
     :alt: Commits since latest release
-    :target: https://github.com/fmorton/python-hummingbird-robot/compare/v0.0.7...main
+    :target: https://github.com/fmorton/python-hummingbird-robot/compare/v0.0.8...main
 
 
 
