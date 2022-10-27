@@ -1,5 +1,5 @@
 """
-Entrypoint module, in case you use `python -mhummingbird_joystick_robot`.
+Entrypoint module, in case you use `python -mhummingbird_robot`.
 
 
 Why does this file exist, and why __main__? For more info, read:
@@ -10,7 +10,7 @@ Why does this file exist, and why __main__? For more info, read:
 """
 import sys
 
-from hummingbird_joystick_robot.cli import main
+from hummingbird_robot.cli import main
 
 if __name__ == "__main__":
     sys.exit(main())

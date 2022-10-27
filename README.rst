@@ -15,41 +15,41 @@ Overview
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
-.. |docs| image:: https://readthedocs.org/projects/python-hummingbird-joystick-robot/badge/?style=flat
-    :target: https://python-hummingbird-joystick-robot.readthedocs.io/
+.. |docs| image:: https://readthedocs.org/projects/python-hummingbird-robot/badge/?style=flat
+    :target: https://python-hummingbird-robot.readthedocs.io/
     :alt: Documentation Status
 
-.. |github-actions| image:: https://github.com/fmorton/python-hummingbird-joystick-robot/actions/workflows/github-actions.yml/badge.svg
+.. |github-actions| image:: https://github.com/fmorton/python-hummingbird-robot/actions/workflows/github-actions.yml/badge.svg
     :alt: GitHub Actions Build Status
-    :target: https://github.com/fmorton/python-hummingbird-joystick-robot/actions
+    :target: https://github.com/fmorton/python-hummingbird-robot/actions
 
-.. |requires| image:: https://requires.io/github/fmorton/python-hummingbird-joystick-robot/requirements.svg?branch=main
+.. |requires| image:: https://requires.io/github/fmorton/python-hummingbird-robot/requirements.svg?branch=main
     :alt: Requirements Status
-    :target: https://requires.io/github/fmorton/python-hummingbird-joystick-robot/requirements/?branch=main
+    :target: https://requires.io/github/fmorton/python-hummingbird-robot/requirements/?branch=main
 
-.. |codecov| image:: https://codecov.io/gh/fmorton/python-hummingbird-joystick-robot/branch/main/graphs/badge.svg?branch=main
+.. |codecov| image:: https://codecov.io/gh/fmorton/python-hummingbird-robot/branch/main/graphs/badge.svg?branch=main
     :alt: Coverage Status
-    :target: https://codecov.io/github/fmorton/python-hummingbird-joystick-robot
+    :target: https://codecov.io/github/fmorton/python-hummingbird-robot
 
-.. |version| image:: https://img.shields.io/pypi/v/hummingbird-joystick-robot.svg
+.. |version| image:: https://img.shields.io/pypi/v/hummingbird-robot.svg
     :alt: PyPI Package latest release
-    :target: https://pypi.org/project/hummingbird-joystick-robot
+    :target: https://pypi.org/project/hummingbird-robot
 
-.. |wheel| image:: https://img.shields.io/pypi/wheel/hummingbird-joystick-robot.svg
+.. |wheel| image:: https://img.shields.io/pypi/wheel/hummingbird-robot.svg
     :alt: PyPI Wheel
-    :target: https://pypi.org/project/hummingbird-joystick-robot
+    :target: https://pypi.org/project/hummingbird-robot
 
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/hummingbird-joystick-robot.svg
+.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/hummingbird-robot.svg
     :alt: Supported versions
-    :target: https://pypi.org/project/hummingbird-joystick-robot
+    :target: https://pypi.org/project/hummingbird-robot
 
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/hummingbird-joystick-robot.svg
+.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/hummingbird-robot.svg
     :alt: Supported implementations
-    :target: https://pypi.org/project/hummingbird-joystick-robot
+    :target: https://pypi.org/project/hummingbird-robot
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/python-hummingbird-joystick-robot/v0.0.7.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/python-hummingbird-robot/v0.0.7.svg
     :alt: Commits since latest release
-    :target: https://github.com/fmorton/python-hummingbird-joystick-robot/compare/v0.0.7...main
+    :target: https://github.com/fmorton/python-hummingbird-robot/compare/v0.0.7...main
 
 
 
@@ -65,18 +65,18 @@ Installation
 
 ::
 
-    pip install hummingbird-joystick-robot
+    pip install hummingbird-robot
 
 You can also install the in-development version with::
 
-    pip install https://github.com/fmorton/python-hummingbird-joystick-robot/archive/main.zip
+    pip install https://github.com/fmorton/python-hummingbird-robot/archive/main.zip
 
 
 Documentation
 =============
 
 
-https://python-hummingbird-joystick-robot.readthedocs.io/
+https://python-hummingbird-robot.readthedocs.io/
 
 
 Development

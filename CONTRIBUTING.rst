@@ -8,7 +8,7 @@ little bit helps, and credit will always be given.
 Bug reports
 ===========
 
-When `reporting a bug <https://github.com/fmorton/python-hummingbird-joystick-robot/issues>`_ please include:
+When `reporting a bug <https://github.com/fmorton/python-hummingbird-robot/issues>`_ please include:
 
     * Your operating system name and version.
     * Any details about your local setup that might be helpful in troubleshooting.
@@ -17,14 +17,14 @@ When `reporting a bug <https://github.com/fmorton/python-hummingbird-joystick-ro
 Documentation improvements
 ==========================
 
-Hummingbird Joystick Robot could always use more documentation, whether as part of the
-official Hummingbird Joystick Robot docs, in docstrings, or even on the web in blog posts,
+Hummingbird Robot could always use more documentation, whether as part of the
+official Hummingbird Robot docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Feature requests and feedback
 =============================
 
-The best way to send feedback is to file an issue at https://github.com/fmorton/python-hummingbird-joystick-robot/issues.
+The best way to send feedback is to file an issue at https://github.com/fmorton/python-hummingbird-robot/issues.
 
 If you are proposing a feature:
 
@@ -35,13 +35,13 @@ If you are proposing a feature:
 Development
 ===========
 
-To set up `python-hummingbird-joystick-robot` for local development:
+To set up `python-hummingbird-robot` for local development:
 
-1. Fork `python-hummingbird-joystick-robot <https://github.com/fmorton/python-hummingbird-joystick-robot>`_
+1. Fork `python-hummingbird-robot <https://github.com/fmorton/python-hummingbird-robot>`_
    (look for the "Fork" button).
 2. Clone your fork locally::
 
-    git clone git@github.com:YOURGITHUBNAME/python-hummingbird-joystick-robot.git
+    git clone git@github.com:YOURGITHUBNAME/python-hummingbird-robot.git
 
 3. Create a branch for local development::
 

@@ -4,4 +4,4 @@ Installation
 
 At the command line::
 
-    pip install hummingbird-joystick-robot
+    pip install hummingbird-robot

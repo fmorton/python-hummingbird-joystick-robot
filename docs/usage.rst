@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use Hummingbird Joystick Robot in a project::
+To use Hummingbird Robot in a project::
 
-	import hummingbird_joystick_robot
+	import hummingbird_robot

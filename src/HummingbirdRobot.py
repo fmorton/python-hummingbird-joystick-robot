@@ -6,7 +6,7 @@ from HummingbirdDualMotorDriver import *
 from HummingbirdJoystick import *
 from HummingbirdJoystickCalculator import *
 
-class HummingbirdJoystickRobot:
+class HummingbirdRobot:
     def __init__(self, motor_device = 'A', joystick_device = None, minimum_motor_speed = None, joystick_calculator = None, joystick_rotation = None):
         self.motor_device = motor_device
         self.joystick_device = joystick_device

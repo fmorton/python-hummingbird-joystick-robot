@@ -19,7 +19,7 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='hummingbird-joystick-robot',
+    name='hummingbird-robot',
     version='0.0.7',
     license='MIT',
     description='A robot using Birdbrain Technologies Hummingbird using the hummingbird_joystick/hummingbird_dual_motor_driver packages.',
@@ -29,7 +29,7 @@ setup(
     ),
     author='Frank Morton',
     author_email='fmorton@base2inc.com',
-    url='https://github.com/fmorton/python-hummingbird-joystick-robot',
+    url='https://github.com/fmorton/python-hummingbird-robot',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -59,9 +59,9 @@ setup(
         'Topic :: Utilities',
     ],
     project_urls={
-        'Documentation': 'https://python-hummingbird-joystick-robot.readthedocs.io/',
-        'Changelog': 'https://python-hummingbird-joystick-robot.readthedocs.io/en/latest/changelog.html',
-        'Issue Tracker': 'https://github.com/fmorton/python-hummingbird-joystick-robot/issues',
+        'Documentation': 'https://python-hummingbird-robot.readthedocs.io/',
+        'Changelog': 'https://python-hummingbird-robot.readthedocs.io/en/latest/changelog.html',
+        'Issue Tracker': 'https://github.com/fmorton/python-hummingbird-robot/issues',
     },
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
@@ -77,7 +77,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'hummingbird-joystick-robot = hummingbird_joystick_robot.cli:main',
+            'hummingbird-robot = hummingbird_robot.cli:main',
         ]
     },
 )

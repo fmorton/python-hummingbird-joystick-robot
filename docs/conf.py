@@ -16,7 +16,7 @@ extensions = [
 ]
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Hummingbird Joystick Robot'
+project = 'Hummingbird Robot'
 year = '2022'
 author = 'Frank Morton'
 copyright = '{0}, {1}'.format(year, author)
@@ -25,8 +25,8 @@ version = release = '0.0.7'
 pygments_style = 'trac'
 templates_path = ['.']
 extlinks = {
-    'issue': ('https://github.com/fmorton/python-hummingbird-joystick-robot/issues/%s', '#'),
-    'pr': ('https://github.com/fmorton/python-hummingbird-joystick-robot/pull/%s', 'PR #'),
+    'issue': ('https://github.com/fmorton/python-hummingbird-robot/issues/%s', '#'),
+    'pr': ('https://github.com/fmorton/python-hummingbird-robot/pull/%s', 'PR #'),
 }
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
